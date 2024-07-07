@@ -3,7 +3,7 @@ body {
 }
 
 header.jumbotron {
-    background: url('/img/sde.jpg') no-repeat center center;
+    background: url('/sde.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     position: relative;
